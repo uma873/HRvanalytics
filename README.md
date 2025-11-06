@@ -54,20 +54,34 @@ This includes trendline and target line to help HR managers track progress towar
    - Find & Replace.
 
 ## DASHBOARD CONTENT:
+    
+    1st Sheet:Age distribution(coloumn Chart)
+    
+    2nd Sheet: gender distribution (pie Chart)
+    
+    3rd Sheet: Dashboard 1 (all  Chart arjust)
+    
+    4th Sheet: Dipartment  (column chart)
+    
+    5th Sheet: employee turnover  (line chart)
+    
+    6th Sheet: termination reasons (Vertical Bar Graph)
+    
+    7th Sheet: hiring tren (line chart)
+    
+    8th sheet: source of hire( vertical bar Graph)
 
-    1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
-    
-    2nd Sheet: Attrition by Gender (Lollipop Chart)
-    
-    3rd Sheet: Department wise Attrition (Pie Chart)
-    
-    4th Sheet: No. of Employee by Age Group (Bar Graph)
-    
-    5th Sheet: Job Satisfaction Rating (Square Chart)
-    
-    6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
-    
-    7th Sheet: Education Field wise Attrition (Donut Plot)
+    9th sheet: time to fill(bar chart)
+
+    10th sheet: Top performers(text)
+
+    11th sheet: performers matrics( circle chart)
+
+    12th sheet: satisfication score(line)
+
+    13th sheet: feedback Analysis( text)
+
+    14th sheet: kpi( Average perscoreid,total emplyoee,Average emp Satisfication,turnover rate)
 
 ## DASHBOARD:
 
