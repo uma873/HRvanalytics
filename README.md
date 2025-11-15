@@ -90,6 +90,7 @@ This includes trendline and target line to help HR managers track progress towar
 
 
 ### DASHBOARD VIDEO:
+https://drive.google.com/file/d/1fnwOsA0Dd6Zq3TOxVKDqSXXJwyG5VwJ5/view?usp=drive_link
 
 
 
